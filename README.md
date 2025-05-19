@@ -1,0 +1,62 @@
+<div align="center">
+  <img src="assets/header-so.png" alt="logo" width="auto" height="150" />
+  <img src="assets/header-mooc.png" alt="logo" width="auto" height="150" />
+  <h1>Online Learning: Do Massive Open Online Courses (MOOC) Meet Industry Demand</h1>
+  <p>
+    Milestone I MADS Project. Exploring the trends of skills offered by MOOC platforms with skills desired by software engineers and data scientists
+  </p>
+
+</div>
+
+<br />
+
+<!-- Badges -->
+
+## Tools
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
+---
+
+<br />
+
+<!-- Table of Contents -->
+
+# :notebook_with_decorative_cover: Table of Contents
+
+- [About the Project](#star2-about-the-project)
+- [Details on Data](#bookmark_tabs-details-on-data)
+- [Contact](#handshake-contact)
+- [Acknowledgements](#gem-acknowledgements)
+
+<!-- About the Project -->
+
+## :star2: About the Project
+
+As the world becomes increasingly digital and online, we have seen a shift in the landscape of work and learning, with many employees and students moving to remote/ online platforms. As such, there is a distinct rise in the rise of Massive Online Open Course (MOOC) sites, as users turn to upskill themselves from the comfort of their own homes.
+
+As MADS students who are both part of the online learning community and avid users of StackOverflow, we want to investigate the trends of the Software Development and Data Science industries by looking at trends within StackOverflow, and identify how online education has evolved over time.
+
+## :bookmark_tabs: Details on Data
+
+- [Stack Overflow Developer Survey](https://survey.stackoverflow.co/) - A collection of historical survey results conducted by Stack Overflow to guage the trends of common skills and tools used by developers
+- Various MOOC datasets - A collection of different course-related information from different MOOC platforms (e.g Coursera, EdX, Udemy). All data sourced from Kaggle
+  - [EdX, Coursera, and Udemy Course Data](https://www.kaggle.com/datasets/kararhaitham/courses)
+  - [15,000+ courses from 13 leading online providers](https://www.kaggle.com/datasets/aloktantrik/dataset-of-1200-coursera-courses)
+  - [Coursera Dataset](https://www.kaggle.com/datasets/elvinrustam/coursera-dataset)
+  - [Udacity Course Catalog](https://www.kaggle.com/datasets/patrickgendotti/udacity-course-catalog)
+  - [Udemy Courses](https://www.kaggle.com/datasets/hossaingh/udemy-courses?select=Course_info.csv)
+
+## :handshake: Contact
+
+Authors: [Jonathan Hawley](https://github.com/jdhawley), [Martin Ho](https://github.com/minimartzz)
+
+Project Link: [Github](https://github.com/minimartzz/online-learning-so-mooc)
+
+<!-- Acknowledgments -->
+
+## :gem: Acknowledgements
+
+- [Stack Overflow Developer Survey Image](https://stackoverflow.blog/2024/05/20/the-good-the-bad-and-the-disruptive-let-us-know-where-you-stand-in-the-2024-annual-developer-survey/)
+- [MOOC Image](https://educationaltechnology.net/massive-open-online-courses-moocs-definitions/)
