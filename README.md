@@ -40,6 +40,8 @@ As MADS students who are both part of the online learning community and avid use
 
 ## :bookmark_tabs: Details on Data
 
+All data can be downloaded from the listed sources. Data should then be stored in the directory `/data/raw`. Output of the `data_processing` notebook will have cleaned datasets placed in `/data/clean`
+
 - [Stack Overflow Developer Survey](https://survey.stackoverflow.co/) - A collection of historical survey results conducted by Stack Overflow to guage the trends of common skills and tools used by developers
 - Various MOOC datasets - A collection of different course-related information from different MOOC platforms (e.g Coursera, EdX, Udemy). All data sourced from Kaggle
   - [EdX, Coursera, and Udemy Course Data](https://www.kaggle.com/datasets/kararhaitham/courses)
