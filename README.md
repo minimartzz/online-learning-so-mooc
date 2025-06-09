@@ -27,6 +27,7 @@
 
 - [About the Project](#star2-about-the-project)
 - [Details on Data](#bookmark_tabs-details-on-data)
+- [notebook](#orange_book-notebooks)
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
 
@@ -49,6 +50,15 @@ All data can be downloaded from the listed sources. Data should then be stored i
   - [Coursera Dataset](https://www.kaggle.com/datasets/elvinrustam/coursera-dataset)
   - [Udacity Course Catalog](https://www.kaggle.com/datasets/patrickgendotti/udacity-course-catalog)
   - [Udemy Courses](https://www.kaggle.com/datasets/hossaingh/udemy-courses?select=Course_info.csv)
+
+## :orange_book: Notebooks
+
+There are 2 main notebooks that outline the project:
+
+1. `data_processing.ipynb` - Data processing steps with justifications that transform raw data into clean data used in the analysis notebook. 2 files will be generated under the `data/clean` path, one for both the Stack Overflow dataset and MOOC datasets
+2. `so_mooc_analysis.ipynb` - A walkthrough of the steps used to explore cleaned data, generate plots, derive insights from the data. This notebook is to be run after clean data has been generated.
+
+A separate folder called "notebooks" that contains the individual notebooks that we both created to perform the analysis of our questions separately. Most relevant information can be found in the 2 combined notebooks. These notebooks serve as an appendix to our project
 
 ## :handshake: Contact
 
