@@ -26,6 +26,7 @@
 # :notebook_with_decorative_cover: Table of Contents
 
 - [About the Project](#star2-about-the-project)
+- [Setup](#wrench-setup)
 - [Details on Data](#bookmark_tabs-details-on-data)
 - [notebook](#orange_book-notebooks)
 - [Contact](#handshake-contact)
@@ -38,6 +39,20 @@
 As the world becomes increasingly digital and online, we have seen a shift in the landscape of work and learning, with many employees and students moving to remote/ online platforms. As such, there is a distinct rise in the rise of Massive Online Open Course (MOOC) sites, as users turn to upskill themselves from the comfort of their own homes.
 
 As MADS students who are both part of the online learning community and avid users of StackOverflow, we want to investigate the trends of the Software Development and Data Science industries by looking at trends within StackOverflow, and identify how online education has evolved over time.
+
+## :wrench: Setup
+
+_We recommend using a fresh virtual environment for this project_
+
+1. Activate your virtual environment and install packags
+
+```
+pip install -r requirements.txt
+```
+
+2. Download data from links below and store them under `data/raw` under the main directory. Create another empty folder `data/clean` as well
+3. Run the `data_preprocessing` notebook which will create 2 datasets under `data/clean`
+4. Run the `so_mooc_analysis` notebook
 
 ## :bookmark_tabs: Details on Data
 
