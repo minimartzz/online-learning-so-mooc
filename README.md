@@ -56,7 +56,9 @@ pip install -r requirements.txt
 
 ## :bookmark_tabs: Details on Data
 
-All data can be downloaded from the listed sources. Data should then be stored in the directory `/data/raw`. Output of the `data_processing` notebook will have cleaned datasets placed in `/data/clean`
+All data can be downloaded from the listed sources. A detailed description of the columns available after processing is in the `data_dictionary.xlsx` file.
+
+Data should then be stored in the directory `/data/raw`. Output of the `data_processing` notebook will have cleaned datasets placed in `/data/clean`
 
 - [Stack Overflow Developer Survey](https://survey.stackoverflow.co/) - A collection of historical survey results conducted by Stack Overflow to guage the trends of common skills and tools used by developers
 - Various MOOC datasets - A collection of different course-related information from different MOOC platforms (e.g Coursera, EdX, Udemy). All data sourced from Kaggle
